@@ -35,9 +35,8 @@
                 <p><br><strong><em>[:alpha:]</em></strong> - é a mesma coisa que [a-zA-Z], 
                 <br>portanto não são permitidos símbolos nem o (_), evitando aquele comando clássico utilizado nos 
                 <br>logins como: or ‘ 1=’1 além de todos outros possíveis utilizando caracteres especiais e números.
-                <br><strong>ex.:</strong> Sant'anna
-                <br><strong>convertido:</strong> Sant'\anna'</p>
-                <br>Liga os caracteres especiais deixando apenas as letras e numeros. é a mesmo coisa que [a-z A - Z-0-9];
+                <p><br><strong><em>[:alnum:]</em></strong> - Deixando apenas letras e números na variável
+                <br>limpa os caracteres especiais deixando apenas as letras e números.</p>
             </div>
         </div>
     </div>
