@@ -1,6 +1,6 @@
 <?php
 
-  require_onde('conexao.php');
+  require_once('conexao.php');
 
   $conn = new Conexao();
 
